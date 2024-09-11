@@ -1,42 +1,28 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import './App.css'; // Global styles
-
-// Importing Components
-import Profile from './components/Profile';
-import Blogs from './components/Blogs';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Navbar from './components/NavBar';
+import Home from './components/Profile';
+import Skills from './components/Skills';
 import Projects from './components/Projects';
+import Blogs from './components/Blogs';
+import About from './components/About';
+import './App.css'; // Ensure your CSS file is properly imported
 
 function App() {
   return (
     <Router>
-      <div>
-        <Navbar />
+      <Navbar />
+      <div className="main-content">
         <Routes>
-          <Route path="/" element={<Profile />} />
-          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
+          <Route path="/skills" element={<Skills />} />
           <Route path="/projects" element={<Projects />} />
+          <Route path="/blogs" element={<Blogs />} />
+          <Route path="/about" element={<About />} />
         </Routes>
       </div>
     </Router>
-  );
-}
-
-function Navbar() {
-  return (
-    <nav className="navbar">
-      <ul className="nav-list">
-        <li className="nav-item">
-          <Link to="/">Profile</Link>
-        </li>
-        <li className="nav-item">
-          <Link to="/blogs">Blogs</Link>
-        </li>
-        <li className="nav-item">
-          <Link to="/projects">Projects</Link>
-        </li>
-      </ul>
-    </nav>
   );
 }
 
