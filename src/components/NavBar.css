@@ -10,6 +10,7 @@
     z-index: 1000; /* Ensure it is above other content */
     padding: 15px 0; /* Padding for the navbar */
     box-sizing: border-box; /* Ensure padding is included in the total width and height */
+    margin-bottom: 2vh;
 }
 
 /* Navbar container for aligning content */

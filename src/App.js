@@ -6,13 +6,16 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Blogs from './components/Blogs';
 import About from './components/About';
-import './App.css'; // Ensure your CSS file is properly imported
+import './App.css';
 
 function App() {
   return (
     <Router>
+      {/* Navbar is outside the 'root' div */}
       <Navbar />
-      <div className="main-content" id="root">
+      {/* Only content inside 'root' */}
+      
+      <div className="main-content" id='root'>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
