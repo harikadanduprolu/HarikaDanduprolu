@@ -52,3 +52,7 @@
 .social-link:hover {
     color: #00cccc;
 }
+img{
+    border-radius: 50%;
+    width: 30px;
+}

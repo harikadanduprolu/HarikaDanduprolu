@@ -16,7 +16,7 @@ function Profile() {
             Welcome to my profile! I am passionate about solving real-world problems through software development and hackathons.
           </p>
           <a href="https://github.com/harikadanduprolu" target="_blank" rel="noopener noreferrer" className="btn">
-            <i className="fa fa-download"></i> Download CV
+            <i className="fa fa-download "></i> Download CV
           </a>
         </div>
       </div>
