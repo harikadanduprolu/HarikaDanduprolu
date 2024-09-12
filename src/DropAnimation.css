@@ -55,7 +55,7 @@
     height: calc(100% + 20px);
     border: 2px solid #61dafb; /* Glowing border color matches the dot */
     border-radius: 10px;
-    animation: glowLine 4s 4s forwards; /* Increased line animation time and delay */
+    animation: glowLine 10s 10s forwards; /* Increased line animation time and delay */
   }
   
   /* Glow animation for the whole name */
