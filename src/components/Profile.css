@@ -38,7 +38,7 @@ body {
 /* Profile image styling */
 .profile-image img {
   border-radius: 50%;
-  border: 6px solid #00e6e6;
+  border: 0px solid #00e6e6;
   box-shadow: 0 0 30px rgba(0, 230, 230, 0.8);
   width: 150px;
   height: 150px;
@@ -128,4 +128,35 @@ body {
   max-width: 400px;
   margin-top: 1rem;
   color: #ccc;
+}
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column; /* Stack the elements in a column */
+    align-items: center;
+    padding: 30px;
+  }
+
+  .profile-image {
+    margin-bottom: 20px; /* Add space between the image and content */
+  }
+
+  .profile-image img {
+    width: 150px;
+    height: 150px;
+    transform: none; /* Remove the upward movement */
+  }
+
+  .profile-info {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .glow-text {
+    font-size: 2rem;
+  }
+
+  .btn {
+    width: 100%;
+    padding: 12px 0;
+  }
 }

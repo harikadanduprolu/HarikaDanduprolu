@@ -1,24 +1,23 @@
 /* Navbar base styles */
 .navbar {
-    position: fixed; /* Fixes the navbar to the top */
+    position: sticky;
     top: 0;
     left: 0;
-    width: 100%; /* Full width */
+    width: 100%;
     background: linear-gradient(90deg, rgba(30,30,30,0.9) 0%, rgba(0,0,0,0.9) 100%);
-    backdrop-filter: blur(10px); /* Smooth blur effect */
+    backdrop-filter: blur(10px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-    z-index: 1000; /* Ensure it is above other content */
-    padding: 15px 0; /* Padding for the navbar */
-    box-sizing: border-box; /* Ensure padding is included in the total width and height */
-    margin-bottom: 2vh;
+    z-index: 1000;
+    padding: 15px 0;
+    box-sizing: border-box;
 }
 
-/* Navbar container for aligning content */
+/* Navbar container */
 .navbar-container {
-    width: 100%; /* Full width */
-    max-width: 1200px; /* Maximum width of the container */
-    margin: 0 auto; /* Center horizontally */
-    padding: 0 20px; /* Padding */
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -29,8 +28,8 @@
     font-size: 1.8rem;
     color: #00e6e6;
     text-shadow: 0 0 10px rgba(0, 230, 230, 0.8);
-    transition: color 0.3s ease-in-out;
     font-weight: bold;
+    transition: color 0.3s ease-in-out;
 }
 
 .navbar-logo h1:hover {
@@ -41,13 +40,55 @@
 .navbar-menu {
     list-style: none;
     display: flex;
-    gap: 30px; /* Adjust the gap for better spacing */
-    margin: 0; /* Ensure no margin */
-    padding: 0; /* Ensure no padding */
+    gap: 30px;
+    margin: 0;
+    padding: 0;
 }
 
-.navbar-item {
-    position: relative;
+/* Hide the menu in mobile view */
+@media (max-width: 768px) {
+    .navbar-menu {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: rgba(30, 30, 30, 0.9);
+    }
+
+    .navbar-menu.active {
+        display: block; /* Show the menu when active */
+    }
+
+    .navbar-link {
+        padding: 15px 0;
+        width: 100%;
+        font-size: 1.5rem;
+    }
+}
+
+/* Mobile hamburger menu icon */
+.menu-icon {
+    display: none;
+    cursor: pointer;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.menu-icon-bar {
+    width: 30px;
+    height: 3px;
+    background-color: #fff;
+    transition: background-color 0.3s;
+}
+
+/* Show the hamburger icon in mobile view */
+@media (max-width: 768px) {
+    .menu-icon {
+        display: flex;
+    }
 }
 
 .navbar-link {
@@ -62,23 +103,6 @@
     position: relative;
 }
 
-/* Hover effects */
-.navbar-link::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 2px;
-    background-color: #00e6e6;
-    transform: scaleX(0);
-    transition: transform 0.3s ease-in-out;
-}
-
-.navbar-link:hover::before {
-    transform: scaleX(1);
-}
-
 .navbar-link:hover {
     color: #00e6e6;
     transform: scale(1.1);
@@ -91,37 +115,7 @@
         padding: 10px 20px;
     }
 
-    .navbar-menu {
-        flex-direction: column;
-        gap: 15px;
-        width: 100%;
-        justify-content: center;
-        padding-top: 10px;
-    }
-
-    .navbar-link {
-        font-size: 1.2rem;
-        text-align: center;
-        width: 100%;
-    }
-
-    /* Optional: reduce padding for smaller screens */
-    .navbar {
-        padding: 10px 0;
-    }
-
     .navbar-logo h1 {
         font-size: 1.6rem;
-    }
-}
-
-/* For better tablet responsiveness */
-@media (max-width: 1024px) {
-    .navbar-menu {
-        gap: 20px;
-    }
-
-    .navbar-link {
-        font-size: 1.1rem;
     }
 }
