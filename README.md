@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Harika Danduprolu  
-[![Resume](https://img.shields.io/badge/Resume-View_My_CV-blue?style=for-the-badge&logo=googledrive)](https://link-to-resume)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Resume](https://img.shields.io/badge/Resume-View_My_CV-blue?style=for-the-badge&logo=googledrive)](https://link-to-resume)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+
 
 ## 🚀 About Me  
 I'm a **Computer Science undergraduate** passionate about **creating impactful technological solutions**.  
