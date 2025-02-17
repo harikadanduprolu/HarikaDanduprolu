@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Harika Danduprolu  
-[![Resume](https://docs.google.com/document/d/12qcNoho4d-Iz9Gi7pYKlWgBwpcOkWPo4g_2iDo-VmPI/edit?tab=t.0)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Resume](https://docs.google.com/document/d/12qcNoho4d-Iz9Gi7pYKlWgBwpcOkWPo4g_2iDo-VmPI/edit?usp=sharing)](https://docs.google.com/document/d/12qcNoho4d-Iz9Gi7pYKlWgBwpcOkWPo4g_2iDo-VmPI/edit?usp=sharing)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 
 
 ## 🚀 About Me  
