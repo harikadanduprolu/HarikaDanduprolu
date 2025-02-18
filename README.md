@@ -28,7 +28,8 @@ I'm a **Computer Science undergraduate** passionate about **creating impactful t
 ### [BioBlock](https://github.com/yourusername/bioblock)  
 📝 **Description:** A Blockchain-Powered Bio-Based Economy Platform.  
 🛠️ **Tech Stack:** ![Solidity](https://img.shields.io/badge/-Solidity-363636) ![React](https://img.shields.io/badge/-React-61DAFB) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28)  
-🔗 **Demo:** [Live Demo](https://bioblock-demo.com)  
+🔗 **Repository:** [Live Demo](https://bioblock-demo.com)  
+🔗 **Preview:** [Live Demo](https://bioblock-demo.com)  
 
 ### [Flashcard Learning Tool](https://github.com/yourusername/flashcard-tool)  
 📝 **Description:** A digital learning platform for students.  
