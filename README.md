@@ -5,10 +5,6 @@
 
 ## 🚀 About Me  
 I'm a **Computer Science undergraduate** passionate about **creating impactful technological solutions**.  
-🔭 **Currently:** Working on **Blockchain-Powered Bio-Based Economy Platform (BioBlock)**.  
-🌱 **Learning:** **Advanced Machine Learning and Web3 Technologies**.  
-🎯 **Goal:** To build meaningful and efficient systems that solve real-world challenges.  
-✨ **Fun Fact:** I love solving Sudoku puzzles and designing creative solutions!  
 
 ---
 
