@@ -4,7 +4,24 @@
 ---
 ## 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+
+## 🚀 Tech Stack
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/><br>Python</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/><br>C++</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="50"/><br>C#</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5969/5968672.png" width="50"/><br>Git</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" width="50"/><br>GitHub</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="50"/><br>Docker</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919842.png" width="50"/><br>HTML</td>
+  </tr>
+</table>
 
 ---
 ## 🛠️ Projects  
