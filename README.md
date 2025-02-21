@@ -12,8 +12,6 @@
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" width="50"/></td>
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/></td>
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50"/></td>
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="50"/></td>
@@ -24,6 +22,14 @@
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" width="50"/></td>
   </tr>
 </table>
+
+### 3 . [View Count Badge](https://github.com/dwyl/hits)
+A badge generator service that counts views on your markdown file.
+
+📍 For example :
+<p align="center">
+  <img width=100 src="https://raw.githubusercontent.com/gist/FuseFairy/08a84ab3f44987ccf222c5d5844be075/raw/103de3c64da63c684caa2a931d415d2240ea421a/hits.svg" alt="View Count Badge">
+</p>
 
 ---
 ## 🛠️ Projects  
