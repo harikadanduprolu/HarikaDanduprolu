@@ -12,7 +12,6 @@
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/><br>Python</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/><br>JavaScript</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/><br>C++</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968233.png" width="50"/><br>C</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" width="50"/><br>GitHub</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" width="50"/><br>React</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/><br>CSS</td>
