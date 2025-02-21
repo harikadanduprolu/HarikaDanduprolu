@@ -23,6 +23,21 @@
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
   </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968383.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
+  </tr>
 </table>
 
 ---
