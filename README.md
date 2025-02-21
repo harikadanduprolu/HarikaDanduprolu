@@ -23,14 +23,6 @@
   </tr>
 </table>
 
-### 3 . [View Count Badge](https://github.com/dwyl/hits)
-A badge generator service that counts views on your markdown file.
-
-📍 For example :
-<p align="center">
-  <img width=100 src="https://raw.githubusercontent.com/gist/FuseFairy/08a84ab3f44987ccf222c5d5844be075/raw/103de3c64da63c684caa2a931d415d2240ea421a/hits.svg" alt="View Count Badge">
-</p>
-
 ---
 ## 🛠️ Projects  
 
