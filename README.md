@@ -25,7 +25,7 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br/>CSS</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/>MySQL</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/><br/>TensorFlow</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50"/><br/>Scikit-Learn</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50"/><br/>Rust</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br/>Pandas</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br/>NumPy</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br/>Figma</td>
@@ -40,7 +40,7 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br/>Linux</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/><br/>Flutter</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br/>PostgreSQL</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/><br/>AWS</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br/>TypeScript</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>Express.js</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/><br/>Redux</td>
   </tr>
