@@ -11,7 +11,7 @@
   <tr>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/><br>Python</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/><br>C++</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/><br> C++ </td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" width="50"/><br>GitHub</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" width="50"/><br>React</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/><br>CSS</td>
@@ -22,8 +22,6 @@
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50"/><br>Figma</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50"/><br>Windows</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" width="50"/><br>Linux</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/1048/1048490.png" width="50"/><br>Power BI</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/2875/2875331.png" width="50"/><br>Agile Framework</td>
   </tr>
 </table>
 
