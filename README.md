@@ -7,53 +7,45 @@
 
 ## 🚀 Tech Stack
 
-<table >
+<table>
   <tr>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968383.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/><br/>Python</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width="50"/><br/>JavaScript</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="50"/><br/>C++</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/><br/>C</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" width="50"/><br/>Solidity</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50"/><br/>React</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="50"/><br/>Node.js</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/><br/>MongoDB</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" width="50"/><br/>Django</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968356.png" width="50"/><br/>Flask</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968383.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width="50"/><br/>HTML</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50"/><br/>CSS</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/><br/>MySQL</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919831.png" width="50"/><br/>TensorFlow</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919832.png" width="50"/><br/>Scikit-Learn</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" width="50"/><br/>Pandas</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50"/><br/>NumPy</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968286.png" width="50"/><br/>Figma</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" width="50"/><br/>Git</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="50"/><br/>GitHub</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968383.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/226/226772.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" width="50"/><br/>Firebase</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919839.png" width="50"/><br/>GraphQL</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919818.png" width="50"/><br/>Docker</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919828.png" width="50"/><br/>Kubernetes</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919850.png" width="50"/><br/>Linux</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968841.png" width="50"/><br/>Flutter</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" width="50"/><br/>PostgreSQL</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968311.png" width="50"/><br/>AWS</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919845.png" width="50"/><br/>Express.js</td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/919/919837.png" width="50"/><br/>Redux</td>
   </tr>
 </table>
+
 
 ---
 ## 🛠️ Projects  
