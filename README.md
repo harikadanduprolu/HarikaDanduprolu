@@ -55,9 +55,9 @@
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/yourusername/bioblock">BioBlock</a></h3>
-      <p>A Blockchain-Powered Bio-Based Economy Platform.</p>
-      <p><strong>Tech Stack:</strong> Solidity, React, Firebase</p>
+      <h3><a href="https://github.com/yourusername/bioblock">BioBlock</a><p>- A Blockchain-Powered Bio-Based Economy Platform.</p></h3>
+      
+      <p><strong>Tech Stack:</strong> Solidity, React, Firebase </p>
       <a href="https://bioblock-demo.com">🔗 Live Demo</a>
     </td>
       </tr>
