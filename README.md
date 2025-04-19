@@ -92,18 +92,24 @@
       <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
       <a href="https://taskhub-demo.com">🔗 Live Demo</a>
     </td>
+      </tr>
+    <tr>
     <td>
       <h3><a href="https://github.com/yourusername/lawmine">LawMine</a></h3>
       <p>A legal research and case analysis platform.</p>
       <p><strong>Tech Stack:</strong> Django, PostgreSQL, AI</p>
       <a href="https://lawmine-demo.com">🔗 Live Demo</a>
     </td>
+        </tr>
+    <tr>
     <td>
       <h3><a href="https://github.com/yourusername/workit">Workit</a></h3>
       <p>A platform to help people learn web development with interactive content.</p>
       <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
       <a href="https://workit-demo.com">🔗 Live Demo</a>
     </td>
+        </tr>
+    <tr>
     <td>
       <h3><a href="https://github.com/yourusername/smackle">Smackle</a></h3>
       <p>A customizable e-commerce platform for personalized stationery and interior items.</p>
@@ -118,18 +124,24 @@
       <p><strong>Tech Stack:</strong> React, Django, PostgreSQL</p>
       <a href="https://career-paths-demo.com">🔗 Live Demo</a>
     </td>
+      </tr>
+    <tr>
     <td>
       <h3><a href="https://github.com/yourusername/social-media">Social Media</a></h3>
       <p>A learning-focused social media platform for sharing and exploring technology.</p>
       <p><strong>Tech Stack:</strong> MERN, GraphQL</p>
       <a href="https://social-media-demo.com">🔗 Live Demo</a>
     </td>
+        </tr>
+    <tr>
     <td>
       <h3><a href="https://github.com/yourusername/projectcollab">ProjectCollab</a></h3>
       <p>A collaborative project management tool.</p>
       <p><strong>Tech Stack:</strong> React, Firebase, Node.js</p>
       <a href="https://projectcollab-demo.com">🔗 Live Demo</a>
     </td>
+        </tr>
+    <tr>
     <td>
       <h3><a href="https://github.com/yourusername/feedback-management">Feedback Management System</a></h3>
       <p>A system to collect and analyze user feedback.</p>
