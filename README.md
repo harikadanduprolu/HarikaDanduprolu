@@ -67,13 +67,13 @@
       <h3><a href="https://github.com/yourusername/rural-aid">Rural Aid</a></h3>
       <p>A community development platform connecting users to rural communities.</p>
       <p><strong>Tech Stack:</strong> MERN</p>
-      <a href="[https://rural-aid-demo.com](https://rural-aid-one.vercel.app/)">🔗 Live Demo</a>
+      <a href="https://rural-aid-one.vercel.app">🔗 Live Demo</a>
     </td>
     <td>
       <h3><a href="https://github.com/yourusername/wellness-ai">Wellness AI</a></h3>
       <p>An AI-powered mental health support system.</p>
       <p><strong>Tech Stack:</strong> Python, TensorFlow, NLP</p>
-      <a href="[https://wellness-ai-demo.com](https://wellness-ai-six.vercel.app/)">🔗 Live Demo</a>
+      <a href="https://wellness-ai-six.vercel.app">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
