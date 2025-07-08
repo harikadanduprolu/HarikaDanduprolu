@@ -120,14 +120,6 @@
 
 </details>
 
----
-
-## 🌱 Currently Learning
-- Rust 🦀  
-- Blockchain App Development 🔗  
-- DevOps Tools & CI/CD ⚙️  
-
----
 
 ## ✨ Let's Connect!
 Feel free to reach out for collaboration, mentorship, or just a techie chat! 😊
