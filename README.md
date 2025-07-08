@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.pinimg.com/736x/a0/e4/78/a0e478c74311774cfd5d48fc7ebe0e01.jpg" width="200" style="border-radius: 10px"/>
+      <img src="https://i.pinimg.com/736x/a0/e4/78/a0e478c74311774cfd5d48fc7ebe0e01.jpg" width="1000" style="border-radius: 10px"/>
     </td>
     <td>
       <h3>👋 Hi there! I'm Harika Danduprolu</h3>
