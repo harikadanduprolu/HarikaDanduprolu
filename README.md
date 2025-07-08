@@ -8,6 +8,32 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://yourportfolio.com)
 
 ---
+<table>
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/736x/a0/e4/78/a0e478c74311774cfd5d48fc7ebe0e01.jpg" width="200" style="border-radius: 10px"/>
+    </td>
+    <td>
+      <h3>👋 Hi there! I'm Harika Danduprolu</h3>
+      <p>
+        I'm a passionate full-stack developer with experience in building scalable web applications and AI-powered solutions.  
+        I love exploring new technologies, contributing to open-source, and creating impactful projects.
+      </p>
+      <p>
+        🔭 Currently working on: <strong>AI for productivity + Web3 applications</strong>  
+        🌱 Learning: <strong>Rust, DevOps, and Blockchain</strong>  
+        💬 Ask me about: <strong>React, Node.js, Python, or anything tech!</strong>
+      </p>
+      <p>
+        📫 Reach me via  
+        <a href="mailto:harika.danduprolu740@gmail.com">Email</a> |
+        <a href="https://www.linkedin.com/in/harika-danduprolu">LinkedIn</a> |
+        <a href="https://github.com/harikadanduprolu">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Tech Stack
 
