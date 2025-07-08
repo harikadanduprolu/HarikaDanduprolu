@@ -120,6 +120,11 @@
 
 </details>
 
+## Let's Play..
+
+![snake gif](https://github.com/harikadanduprolu/harikadanduprolu/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Quote For The Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
