@@ -1,11 +1,5 @@
-# 👋 Hello, I'm Harika Danduprolu  
 
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/12qcNoho4d-Iz9Gi7pYKlWgBwpcOkWPo4g_2iDo-VmPI/edit?usp=sharing) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harika-danduprolu)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harika.danduprolu740@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harikadanduprolu)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haari_2005_/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://yourportfolio.com)
+
 
 ---
 <table>
@@ -29,6 +23,13 @@
         <a href="mailto:harika.danduprolu740@gmail.com">Email</a> |
         <a href="https://www.linkedin.com/in/harika-danduprolu">LinkedIn</a> |
         <a href="https://github.com/harikadanduprolu">GitHub</a>
+        
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/12qcNoho4d-Iz9Gi7pYKlWgBwpcOkWPo4g_2iDo-VmPI/edit?usp=sharing) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harika-danduprolu)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harika.danduprolu740@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harikadanduprolu)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haari_2005_/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://yourportfolio.com)
       </p>
     </td>
   </tr>
