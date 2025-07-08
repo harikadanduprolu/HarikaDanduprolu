@@ -76,60 +76,47 @@
 ## 📂 My Projects
 
 <details>
-  <summary><strong>Click to Expand 👇</strong></summary>
+  <summary><strong>Click to Expand 👇</strong></summary><br/>
 
-### 🔗 [BioBlock](https://github.com/yourusername/bioblock) - Blockchain-Powered Bio-Based Economy Platform  
-Tech Stack: `Solidity`, `React`, `Firebase`  
-[Live Demo](https://bioblock-demo.com)
-
----
-
-### 📚 [Flashcard Learning Tool](https://github.com/yourusername/flashcard-tool)  
-A digital learning platform for students.  
-Tech Stack: `React`, `MySQL`, `Node.js`  
-[Live Demo](https://flashcard-tool-demo.com)
-
----
-
-### 🌾 [Rural Aid](https://github.com/yourusername/rural-aid)  
-Connecting users to rural communities for development.  
-Tech Stack: `MERN`  
-[Live Demo](https://rural-aid-one.vercel.app)
-
----
-
-### 🧠 [Wellness AI](https://github.com/yourusername/wellness-ai)  
-AI-powered mental health support system.  
-Tech Stack: `Python`, `TensorFlow`, `NLP`  
-[Live Demo](https://wellness-ai-six.vercel.app)
-
----
-
-### ✅ [TaskHub](https://github.com/yourusername/taskhub)  
-A productivity and task management platform.  
-Tech Stack: `React`, `Node.js`, `MongoDB`  
-[Live Demo](https://taskhub-demo.com)
+<!-- 🎯 Featured Projects with Images (Top 3) -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x180?text=Rural+Aid" alt="Rural Aid" width="100%" />
+      <h4>🌾 <a href="https://github.com/yourusername/rural-aid">Rural Aid</a></h4>
+      <p><i>Connecting users to rural communities</i></p>
+      <p><code>MERN</code></p>
+      <a href="https://rural-aid-one.vercel.app">🌐 Live Demo</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x180?text=Wellness+AI" alt="Wellness AI" width="100%" />
+      <h4>🧠 <a href="https://github.com/yourusername/wellness-ai">Wellness AI</a></h4>
+      <p><i>AI-powered mental health support system</i></p>
+      <p><code>Python</code> <code>TensorFlow</code> <code>NLP</code></p>
+      <a href="https://wellness-ai-six.vercel.app">🌐 Live Demo</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/300x180?text=Smackle" alt="Smackle" width="100%" />
+      <h4>🛍️ <a href="https://github.com/yourusername/smackle">Smackle</a></h4>
+      <p><i>Customizable e-commerce platform</i></p>
+      <p><code>Java</code> <code>JSP</code> <code>Servlets</code></p>
+      <a href="https://smackle-demo.com">🌐 Live Demo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚖️ [LawMine](https://github.com/yourusername/lawmine)  
-Legal research and case analysis platform.  
-Tech Stack: `Django`, `PostgreSQL`, `AI`  
-[Live Demo](https://lawmine-demo.com)
+<!-- 📦 Remaining Projects Grid -->
+### 🔧 Other Projects
 
----
-
-### 💻 [Workit](https://github.com/yourusername/workit)  
-Learn web development with interactive content.  
-Tech Stack: `React`, `Node.js`, `MongoDB`  
-[Live Demo](https://workit-demo.com)
-
----
-
-### 🛍️ [Smackle](https://github.com/yourusername/smackle)  
-Customizable stationery & interior item e-commerce platform.  
-Tech Stack: `Java`, `JSP`, `Servlets`  
-[Live Demo](https://smackle-demo.com)
+| Project | Description | Tech Stack | Live Demo |
+|--------|-------------|------------|------------|
+| 🔗 [BioBlock](https://github.com/yourusername/bioblock) | Blockchain-based bio-economy platform | `Solidity` `React` `Firebase` | [🌐 Demo](https://bioblock-demo.com) |
+| 📚 [Flashcard Tool](https://github.com/yourusername/flashcard-tool) | Digital flashcards for students | `React` `MySQL` `Node.js` | [🌐 Demo](https://flashcard-tool-demo.com) |
+| ✅ [TaskHub](https://github.com/yourusername/taskhub) | Productivity and task management | `React` `Node.js` `MongoDB` | [🌐 Demo](https://taskhub-demo.com) |
+| ⚖️ [LawMine](https://github.com/yourusername/lawmine) | Legal research platform | `Django` `PostgreSQL` `AI` | [🌐 Demo](https://lawmine-demo.com) |
+| 💻 [Workit](https://github.com/yourusername/workit) | Learn web dev interactively | `React` `Node.js` `MongoDB` | [🌐 Demo](https://workit-demo.com) |
 
 </details>
 
