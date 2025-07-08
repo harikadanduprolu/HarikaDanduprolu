@@ -121,7 +121,7 @@
 </details>
 
 ## Quote For The Day
-<p align="center">![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</p>
+<p>        </p>  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## ✨ Let's Connect!
 Feel free to reach out for collaboration, mentorship, or just a techie chat! 😊
