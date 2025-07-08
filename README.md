@@ -73,6 +73,8 @@
 
 ---
 
+[![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=vercel)](https://harikadanduprolu.vercel.app)
+
 ## 📂 My Projects
 
 <details>
